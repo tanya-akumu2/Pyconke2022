@@ -8,4 +8,5 @@ Systematic deviations in data and models are common phenomena in machine learnin
 
 ## Useful Links
 - [AIF360 toolkit](https://github.com/Trusted-AI/AIF360)
+- [More MDSS example use cases](https://github.com/Trusted-AI/AIF360/blob/master/examples/demo_mdss_detector.ipynb)
 - [PyconKE 2022](https://www.pyconke.org)
